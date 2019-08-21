@@ -4,8 +4,6 @@ body {
   margin: 0;
 }
 
-.container {
-  align-items: center;
-  align-content: center;
+header{
   text-align: center;
 }
