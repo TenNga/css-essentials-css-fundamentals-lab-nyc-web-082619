@@ -10,4 +10,6 @@ header{
 
 #featured-property img {
   text-align: center;
+  align-content: center;
+  align-items: center;
 }
