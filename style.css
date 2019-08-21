@@ -14,7 +14,7 @@ header{
   margin-left: auto;
 }
 
-a {
+header a {
   padding: 0 10px;
   background-color: gray;
 }
